@@ -13,5 +13,3 @@ Some technologies and tools used so far on this project:
 - React.js
 - React Native
 
-![Login demo](login.png)
-![Register demo](register.png)
