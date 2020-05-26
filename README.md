@@ -1,6 +1,6 @@
 # GoBarber
 
-Some technologies and tools used so far on this project:
+Some technologies and tools used for this project:
 
 - Node.js
 - TypeScript
